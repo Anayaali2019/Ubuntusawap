@@ -30,5 +30,5 @@ sudo systemctl disable --now firewalld
 sudo systemctl disable --now postfix
 
 # Reboot the server
-sudo reboot
+#sudo reboot
 
